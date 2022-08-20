@@ -2,4 +2,4 @@ from flask import Flask
 
 app = Flask(__name__)
 
-app.secret_key = "DONTSHARE"
+app.secret_key = "KAUKEBOILONA"
